@@ -1,0 +1,45 @@
+Day 2 Task: Basics linux command
+
+Task: What is the linux command to 
+1. Check your present working directory.
+2. List all the files or directories including hidden files.
+3. Create a nested directory A/B/C/D/E
+
+Note: [Check this file for reference](basic_linux_commands.md)
+
+Check the basic_linux_commands.md file on the same directory day2
+
+
+Day 2 Task
+1) Basic Linux commands:-
+
+ssh - connect to linux machine (with username)
+ls - list all files in working directory
+pwd - print directory
+cd - change directory
+touch - to create file
+echo - talk to yourself command
+vim - to edit a file
+cat - to view the contents of the file
+esc:wq - to save the edited file
+mkdir - to make new directory
+cp - copy the file
+mk - move the file
+rm - remove files
+rmdir - remove files from directory
+clear - to clear up your commands
+sudo passwd (name) - to change the password
+exit - to exit for the current directory/file
+
+
+
+2) Check your present working directory?
+  -Use command "pwd"
+  
+  
+3) List all the files or directories including hidden files?
+  -User command "ls -a"
+  
+  
+4) Create a nested directory A/B/C/D/E
+  - User Command "mkdir (name)"
